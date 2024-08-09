@@ -1,0 +1,8 @@
+
+audio,text,label
+"path/to/audio1.wav","Turn on the lights",0
+"path/to/audio2.wav","Play some music",1
+"path/to/audio3.wav","Set a timer for 5 minutes",2
+"path/to/audio4.wav","What's the weather today?",0
+"path/to/audio5.wav","Call mom",1
+"path/to/audio6.wav","Remind me to buy groceries",2
